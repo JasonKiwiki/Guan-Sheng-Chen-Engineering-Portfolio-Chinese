@@ -1,4 +1,0 @@
-0 Single
-1 MultiHands
-2 Draw
-3 RealTime
