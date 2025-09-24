@@ -28,7 +28,7 @@
 │ ├─ Chen_Guan-Sheng_[EXTERNAL]_MathWorks_Project.pdf
 │ └─ Chen_Guan-Sheng_Poster.pdf
 |
-└─ README_CN.md # 中文版说明文件
+└─ README.md # 中文版说明文件
 
 
 ---
